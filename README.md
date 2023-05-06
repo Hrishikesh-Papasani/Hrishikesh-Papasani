@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hrishikesh-Papasani. An undergrad Computer Science student!
+- 👋 Hi, I’m @Hrishikesh-Papasani. A Computer Science undergrad!
 - 👀 I’m interested in Data Science, Machine learning and Deep learning
 - 🌱 I’m currently learning Data Science further by developing new projects
 - 💞️ I’m looking to collaborate on any projects involving Data Science & Machine Learning
