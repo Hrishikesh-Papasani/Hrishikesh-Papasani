@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Hrishikesh-Papasani. A Computer Science undergrad!
-- 👀 I’m interested in Data Science, Machine learning and Deep learning
-- 🌱 I’m currently learning Data Science further by developing new projects
-- 💞️ I’m looking to collaborate on any projects involving Data Science & Machine Learning
+- 👀 I’m interested in Data Science, Machine learning and Deep learning.
+- 🏅 4 month internship program at DevTown and IBM Data Science Professional Certification.
+- 🌱 Currently enhancing my Data Science skills further by developing new projects.
+- 💞️ Looking to collaborate on any projects in the Data Science & Machine Learning domains.
 - 📫 Reach me at hrpapasani@gmail.com
 
 <!---
