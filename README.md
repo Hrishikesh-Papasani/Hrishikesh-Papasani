@@ -1,19 +1,17 @@
 # Hi there! 👋 I'm Hrishikesh Reddy Papasani
 
 🎓 **Computer Science Undergraduate** specializing in **Data Science & Software Development**  
-🔍 Passionate about solving real-world problems through **Data Science, Machine Learning,** and **Deep Learning**  
-🏆 **IBM Data Science Professional Certified** and former **Data Science Intern at DevTown**
+🔍 Driven by a passion for using technology to solve real-world challenges <br>
+🏆 **IBM Data Science Professional Certified** and **Intern at MAQ Software**
 
 ---
 
 ## What I Do
+- 💡 Dynamic Projects and Solutions:
+I develop versatile, data-driven applications and full-stack solutions, with a focus on Python, Java, and SQL. My work ranges from predictive analytics to building optimized, scalable web applications, blending data insights with robust development practices for impactful results.
 
-- 💡 **Innovative Projects:**  
-  I design and implement data-driven solutions using Python, SQL, and Java. My projects focus on predicting trends, optimizing processes, and uncovering insights that drive decision-making.
-
-- 🤝 **Open to Collaboration:**  
-  I'm eager to collaborate on projects that push the boundaries of Data Science, Machine Learning, and Deep Learning. Let's build something impactful together!
-
+- 🤝 Open to Collaboration:
+I'm passionate about teaming up on innovative projects, whether in data science, machine learning, or full-stack development. If you're aiming to create meaningful, high-performance solutions, let's connect and bring ideas to life!
 ---
 
 ## Get in Touch
